@@ -1,9 +1,5 @@
 <p align="center">
 🎯 Estudante de <b>Sistemas de Informação</b><br><br>
-"A tecnologia me fascina." – uma adaptação da famosa frase de Ayrton Senna: <i>"O medo me fascina"</i>.  
-<br>
-Assim como ele transformava desafios em motivação, eu transformo minha paixão pela <b>tecnologia</b> em combustível para aprender e evoluir.  
-<br>
 Estou em busca da minha primeira oportunidade como <b>Desenvolvedor</b>, com experiência prática em <b>C#</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>Bootstrap</b>, atuando em projetos que vão de sites institucionais até sistemas de gestão acadêmica.
 </p>
 
