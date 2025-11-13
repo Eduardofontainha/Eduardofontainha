@@ -1,6 +1,6 @@
 <p align="center">
 🎯 Estudante de <b>Sistemas de Informação</b><br><br>
-Estou em busca da minha primeira oportunidade como <b>Desenvolvedor</b>, com experiência prática em <b>C#</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>Bootstrap</b>, atuando em projetos que vão de sites institucionais até sistemas de gestão acadêmica.
+Estou em busca da minha primeira oportunidade como <b>Desenvolvedor</b>, com experiência prática em  <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b> , atuando em projetos que vão de sites institucionais até sistemas de gestão acadêmica.
 </p>
 
 
@@ -17,12 +17,9 @@ Estou em busca da minha primeira oportunidade como <b>Desenvolvedor</b>, com exp
 
 #### Main Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
